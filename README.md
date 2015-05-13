@@ -1,2 +1,2 @@
 # meta
-Ideas and more.
+Ideas and more. (Please use the issue tracker)
